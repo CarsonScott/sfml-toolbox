@@ -1,14 +1,6 @@
 #ifndef TOOLKIT_HPP_INCLUDED
 #define TOOLKIT_HPP_INCLUDED
 
-#include <iostream>
-#include <SFML/Graphics.hpp>
-#include <ctime>
-#include <cstdlib>
-#include <cmath>
-#include <string>
-#include <sstream>
-
 #define PVector sf::Vector2f
 #define vect std::vector
 #define Array std::vector<float>
